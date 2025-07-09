@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="220d8f9e-5330-47c4-ae92-cc43f69d3e8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/InventarioApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/InventarioApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/EntregasController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/EntregasController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/InformeStockApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/InformeStockApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/InformeStockViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/InformeStockViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/ReabastecimientoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/ReabastecimientoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/RecepcionesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/controller/RecepcionesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Almacenero.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Almacenero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/DetalleGuia.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/DetalleGuia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/DetalleOrden.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/DetalleOrden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Empleado.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Empleado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/GuiaRemision.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/GuiaRemision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/InformeStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/InformeStock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/JefeDeAlmacen.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/JefeDeAlmacen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/OrdenProduccion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/OrdenProduccion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Producto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Producto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Recurso.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/model/Recurso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/GuiaRemisionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/GuiaRemisionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/InformeStockService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/InformeStockService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/InformeStockService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/InformeStockService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/InformeStockService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/InformeStockService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/harold/inventario/service/RecursoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InformeStockApiController.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InformeStockService$1.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InformeStockService$2.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InformeStockService.class.uniqueId4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InformeStockViewController.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/harold/inventario/InventarioApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/harold/inventario/InventarioApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2y9ZdQf5CgxatadUt5U4VRc2bvu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InventarioApplication.executor": "Run",
+    "Gradle.Modulo inventario.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/hreyna/ProyectoPrueba/Angular/Inventario2/ProyectoComunitario/Modulo inventario",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.kubernetes.view.ui.settings.KubernetesViewConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.InventarioApplication">
+    <configuration name="InventarioApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harold.inventario.InventarioApplication" />
+      <module name="inventario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harold.inventario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Modulo inventario" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Modulo inventario" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Modulo inventario" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InventarioApplication" />
+        <item itemvalue="Gradle.Modulo inventario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="220d8f9e-5330-47c4-ae92-cc43f69d3e8e" name="Changes" comment="" />
+      <created>1749248836977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749248836977</updated>
+      <workItem from="1749248838188" duration="6081000" />
+      <workItem from="1752073706238" duration="5728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
